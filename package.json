@@ -1,0 +1,13 @@
+{
+  "name": "airchain-transfer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.13.1"
+  },
+
+  "scripts": {
+    "start": "node index.js"
+  }
+}
