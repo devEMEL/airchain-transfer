@@ -1,4 +1,4 @@
-// node packages/hardhat/transfer/transfer.ts
+
 const { ethers } = require("ethers");
 
 const main = async () => {
